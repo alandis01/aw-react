@@ -2,7 +2,7 @@
     "name": "aw-react-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://alandis01.github.io/AW-react-portfolio",
+    "homepage": "http://alandis01.github.io/aw-react",
     "dependencies": {
       "@testing-library/jest-dom": "^5.16.5",
       "@testing-library/react": "^13.4.0",
