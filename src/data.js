@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "CLI",
       description:
         "An application created that uses the CLI to generate an HTML page containing employee data and their respective data.",
-      image: "./team-profile-generator",
+      image: "../",
       link: "https://github.com/alandis01/team-profile-generator",
     },
     {
@@ -31,4 +31,12 @@ export const projects = [
       image: "./18-Social-NetworkAPIScreenshot.png",
       link: "https://github.com/alandis01/Social-NetworkAPI",
     },
+    {
+        title: "Project 3",
+        subtitle: "MERN",
+        description:
+          "Working together with a group to create an application called PetBook like FaceBook for your pets",
+        image: "../petbook.png",
+        link: "https://stormy-tundra-00611.herokuapp.com/",
+      },
   ];
